@@ -8,7 +8,6 @@
 
 ### What I’m Working On
 - Full-stack projects integrating **AI, Cloud, and Scalable Architectures**  
-- Strengthening **Data Structures & Algorithms** for placements  
 - Exploring **Java + PostgreSQL** for backend systems  
 
 ---
